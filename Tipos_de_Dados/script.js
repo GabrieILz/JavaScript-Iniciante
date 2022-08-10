@@ -7,6 +7,9 @@
 
 var a = "Primeira linha \n Segunda linha";
 var b = 9;
+var c = null;
+var d = true;
+
 
 console.log(a);
 console.log(b);
